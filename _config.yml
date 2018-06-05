@@ -2,11 +2,11 @@
 # Theme Customization #
 #######################
 
-title: 渣渣鱼                                # used in <title> tag & site header
-author: Dargeul 郭                          # used in a <meta> tag & /feed.xml
+title: D.Aro                                # used in <title> tag & site header
+author: Dargeul                             # used in a <meta> tag & /feed.xml
 description: >                              # used in a <meta> tag & /feed.xml
-  渣渣的乐土
-slogan: 渣渣不聪明                            # used in site header, beside title
+  Improve myself.
+slogan:  Chasing is Happy and Important.              # used in site header, beside title
 avatar: /i/avatar.png                       # used as portrait in site header
 banner: /i/mountains.svg                    # used as background in site header
 url: http://solana.ryanlue.com              # used by plugins to generate feed.xml and sitemap.xml
@@ -34,9 +34,9 @@ nav_menu:
 
 # Objects listed here will appear on the /projects.html page.
 projects:
-  - title: Solana
+  - title: 个人网站搭建
     teaser: A responsive blog template written in Sass and vanilla JavaScript.
-    url: https://github.com/rlue''            
+    url: https://github.com/Dargeul/Dargeul.github.io.git            
     role: Creator
     category: Frontend Dev
   - title: Cortana
